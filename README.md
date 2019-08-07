@@ -37,3 +37,6 @@
 <img src="https://user-images.githubusercontent.com/53854831/62607457-1221f300-b939-11e9-8425-3d635e108715.png"><!--결과-->
 <img src="https://user-images.githubusercontent.com/53854831/62607458-1221f300-b939-11e9-9d8d-3820a5907d9d.jpg"><!--끗계산-->
 
+<img src="https://user-images.githubusercontent.com/53854831/62610307-65e30b00-b93e-11e9-9f0c-e3513a3b4110.png"><!--도움말말-->
+<img src="https://user-images.githubusercontent.com/53854831/62610310-68456500-b93e-11e9-9e92-3e92bdfb7284.png"><!--결과-->
+
