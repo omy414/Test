@@ -1,4 +1,9 @@
 ### README.md
 
- -¹Ý°©½À´Ï´Ù
- -Å×½ºÆ® Áß ÀÔ´Ï´Ù.
+ -ë°˜ê°‘ìŠµë‹ˆë‹¤
+ -í…ŒìŠ¤íŠ¸ ì¤‘ ìž…ë‹ˆë‹¤.
+ 
+ Screenshots
+ -----------
+ 
+ <img src="https://user-images.githubusercontent.com/53854831/62607414-0b937b80-b939-11e9-943d-dd47efe1beff.jpg">
