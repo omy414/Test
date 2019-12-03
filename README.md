@@ -5,7 +5,7 @@
  
  Screenshots
  -----------
- 
+ <img src="https://user-images.githubusercontent.com/53854831/70031042-bff29500-15ed-11ea-9ccb-5ad5fccc3a37.png"><!--게임화면-->
  <img src="https://user-images.githubusercontent.com/53854831/62607414-0b937b80-b939-11e9-943d-dd47efe1beff.jpg"><!--섯다족보-->
  <img src="https://user-images.githubusercontent.com/53854831/62607416-0b937b80-b939-11e9-8867-f8bd950bcf72.jpg"><!---카드패0-->
  <img src="https://user-images.githubusercontent.com/53854831/62607417-0c2c1200-b939-11e9-8790-28b0e5e40ecf.jpg">
