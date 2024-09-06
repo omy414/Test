@@ -48,6 +48,7 @@
 
 <img width="1177" alt="국민대 아카이브" src="https://user-images.githubusercontent.com/53854831/194757973-eff864da-d8e8-44d7-ba38-f5a167c73b48.png">
 
-<img width="1177" alt="연세대 헤더 백그라운드" src="https://user-images.githubusercontent.com/53854831/194757973-eff864da-d8e8-44d7-ba38-f5a167c73b48.png">
-<img width="1177" alt="연세대 헤더 로고" src="https://user-images.githubusercontent.com/53854831/194757973-eff864da-d8e8-44d7-ba38-f5a167c73b48.png">
-<img width="1177" alt="연세대 푸터 로고" src="https://user-images.githubusercontent.com/53854831/194757973-eff864da-d8e8-44d7-ba38-f5a167c73b48.png">
+![mailfooter_logo](https://github.com/user-attachments/assets/f00a2265-17ee-4c63-9003-aad8bd0194d7)
+
+![mailheader_bg](https://github.com/user-attachments/assets/94b16714-0f24-4de9-aafd-fe15921cc4e1)
+![mailheader_logo](https://github.com/user-attachments/assets/a88517d2-217b-48da-9713-605678d7172d)
